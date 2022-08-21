@@ -1,0 +1,11 @@
+Classes -> Node
+    [X] BinaryNode.js
+    [X] BinaryTree.js
+    Notes: Why aren't these in .jsx and will it make a difference that they're not?
+    Additions: Along with comments, add the costs above each function.
+
+Components:
+    [] The holder for the entire project
+    [] User Input (Create, Search, Input, Remove, Predecessor, Successor)
+    [] The Tree from User Input
+    [] Headings (Binary Search Tree, Create, Search, Input, Remove, Predecessor, Successor)
