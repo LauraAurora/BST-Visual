@@ -1,4 +1,3 @@
-import { findRenderedComponentWithType } from "react-dom/test-utils";
 import BinaryNode from "./BinaryNode";
 
 class BinaryTree {
